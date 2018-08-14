@@ -1,3 +1,4 @@
+//2018-08-14 
 package com.pistachio.lotto;
 //로또 번호를 생성하는 클래스
 import java.util.Random;
